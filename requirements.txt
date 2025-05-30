@@ -1,0 +1,13 @@
+streamlit
+Pillow
+pytesseract
+speechrecognition
+python-dotenv
+google-generativeai
+langchain
+langchain-community
+langchain-huggingface
+pydantic
+faiss-cpu
+PyMuPDF
+googletrans
